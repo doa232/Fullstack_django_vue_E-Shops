@@ -1,0 +1,18 @@
+doado
+doadoadaodao5@gmail.com
+PauseBreak23!
+
+
+
+Back-End :
+django
+django-rest-framework
+	To create API in the BackEnd
+django-cors-headers
+	Security between Backend and API
+djoser
+	Users authentications
+pillow
+	Resize images
+stripe
+	Payment 
